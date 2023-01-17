@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Voxi0
 - 👀 I’m interested in Software Engineering and Programming
-- 🌱 I’m currently learning C++ and SFML
+- 🌱 I’m currently learning C++
 - 📫 Contact Me by Using This Email: alif200099@gmail.com 
 
 <!---
