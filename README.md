@@ -1,5 +1,0 @@
-- Hi, I'm Voxi0. I live in the UK and am currently doing my GCSEs.
-- I'm a self-taught programmer and computer science enthusiast.
-- I love to do low-level programming as it teaches me a lot.
-- I'm currently learning the Nix ecosystem and NixOS.
-- Email -> alif200099@gmail.com
