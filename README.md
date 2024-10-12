@@ -7,7 +7,7 @@
 
 <div align="center">
     <h2>Connect With Me</h2>
-    <a href="https://www.discord.com/users/1016332310741799054">
+    <a href="https://www.discord.com/users/1016332310741799054" target="blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/Discord-Badge?style=flat&logo=Discord&label=Voxi0&labelColor=black&color=white">
     </a>
 </div>
