@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi! My name's Voxi0. I'm a 16yo computer science, programming and Linux/Nix enthusiast.
+Hi! My name's Voxi0. I'm a 16yo computer science, programming and Linux/Nix enthusiast currently living in the United Kingdom.
 
 - 🌱 I’m currently learning Nix and Zig
 - 👨🏻‍💻 I’m currently working on [NixDots](https://github.com/Voxi0/NixDots)
