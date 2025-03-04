@@ -18,4 +18,4 @@ Hi! My name's Voxi0. I'm a 16yo computer science, programming and Linux/Nix enth
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 <!-- Snake animation -->
-![Snake GIF](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![Snake GIF](https://github.com/Voxi0/Voxi0/blob/output/github-snake-dark.svg)
