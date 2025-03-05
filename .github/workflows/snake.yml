@@ -1,5 +1,7 @@
+# Name of the workflow
 name: GitHub Snake Game
 
+# When to run the workflow
 on:
   # Schedule to run the workflow daily at midnight UTC
   schedule:
@@ -13,7 +15,7 @@ on:
     branches:
       - main
 
-
+# What the workflow does
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -43,4 +45,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
+          commit_message: "Update Snake Animation [Skip CI]"
