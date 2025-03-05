@@ -33,7 +33,7 @@ Hi! My name's Voxi0. I'm a 16yo computer science, programming and Linux/Nix enth
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=voxi0&theme=radical&rank_icon=default&include_all_commits=false&border_radius=4&hide_border=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voxi0&theme=radical&layout=compact&langs_count=8&card_width=320&border_radius=4&hide_border=true&hide_progress=false"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voxi0&theme=radical&layout=compact&langs_count=8&border_radius=4&hide_border=true&hide_progress=false"/>
 </a>
 
 <!-- Snake animation -->
