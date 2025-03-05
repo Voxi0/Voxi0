@@ -29,12 +29,12 @@ Hi! My name's Voxi0. I'm a 16yo computer science, programming and Linux/Nix enth
 
 <!-- Github statistics -->
 ## 📊 Stats
-<div>
+<div align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=voxi0&show_icons=true&theme=radical&border_radius=4&hide_border=true&layout=normal"/>
+		<img height=200 src="https://github-readme-stats.vercel.app/api?username=voxi0&show_icons=true&theme=radical&border_radius=4&hide_border=true&layout=normal"/>
 	</a>
 	<a href="https://github.com/anuraghazra/convoychat">
-	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voxi0&show_icons=true&theme=radical&border_radius=4&hide_border=true&langs_count=6&layout=compact&hide_progress=true"/>
+		<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=voxi0&show_icons=true&theme=radical&border_radius=4&hide_border=true&langs_count=6&layout=compact&hide_progress=true"/>
 	</a>
 </div>
 
