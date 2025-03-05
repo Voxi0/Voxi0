@@ -1,5 +1,5 @@
 <!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🌃Voxi0&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🌃Voxi0&fontSize=70)
 
 <!-- Introduction -->
 # 💫 About Me
@@ -26,6 +26,15 @@ Hi! My name's Voxi0. I'm a 16yo computer science, programming and Linux/Nix enth
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=35/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=35/>
 </div>
+
+<!-- Github statistics -->
+## 📊 Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=voxi0&show_icons=true&theme=radical&border_radius=4&hide_border=true&layout=normal"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voxi0&show_icons=true&theme=radical&langs_count=4&layout=compact&hide_progress=true&card_width=320"/>
+</a>
 
 <!-- Snake animation -->
 ## 🐍 Contributions
