@@ -18,7 +18,7 @@ Hi! My name's Voxi0. I am a 16 year old computer science, programming and Linux/
 
 <!-- Tech stuff I usually use -->
 ## 💻 Tech Stack
-<div align="center" style="display: flex; justify-content: space-around;">
+<div align="center" style="display: flex; justify-content: space-evenly;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=35/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width=35/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width=35/>
