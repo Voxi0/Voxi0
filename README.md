@@ -3,10 +3,10 @@
 
 <!-- Introduction -->
 # 💫 About Me
-Hi! My name's Voxi0. I am a 16 year old computer science, programming and Linux/Nix enthusiast currently living in the United Kingdom. I love NixOS and systems-level programming languages like Zig and games such as Half Life 1/2, Silent Hill 2 and Yume Nikki.
+Hi! My name is Voxi0. I am a 16 year old computer science, programming and Linux/Nix enthusiast currently living in the United Kingdom. I love NixOS and systems-level programming languages like [Zig](https://ziglang.org) and games like Half Life, Silent Hill 2 and Yume Nikki.
 
-- 🌱 I’m currently learning Nix and Zig
-- 👨🏻‍💻 I’m currently working on [NixDots](https://github.com/Voxi0/NixDots)
+- 🌱 I’m currently learning [Nix](https://nixos.org/) and [Zig](https://ziglang.org/)
+- 👨🏻‍💻 I’m currently working on [NixDots](https://github.com/Voxi0/NixDots) and [3GL](https://github.com/Voxi0/3GL)
 
 <!-- Social media links -->
 ## 🌐 Socials
