@@ -1,12 +1,13 @@
 <!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🌃Voxi0&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&theme=radical&height=100&animation=scaleIn&text=🌃Voxi0&fontSize=50)
 
 <!-- Introduction -->
 # 💫 About Me
-Hi! My name is Voxi0. I am a 16 year old computer science, programming and Linux/Nix enthusiast currently living in the United Kingdom. I love NixOS and systems-level programming languages like [Zig](https://ziglang.org) and games like Half Life, Silent Hill 2 and Yume Nikki.
+Hi! I'm Voxi0, a 16 year old computer science, programming and Linux/Nix enthusiast currently living in the United Kingdom.
+I love [NixOS/Nix](https://nixos.org/) and systems-level programming languages like [Zig](https://ziglang.org) and games like Half Life, Silent Hill 2 and Yume Nikki.
 
-- 🌱 I’m currently learning [Nix](https://nixos.org/) and [Zig](https://ziglang.org/)
-- 👨🏻‍💻 I’m currently working on [NixDots](https://github.com/Voxi0/NixDots) and [3GL](https://github.com/Voxi0/3GL)
+- 🌱 Learning [Nix](https://nixos.org/) and [Zig](https://ziglang.org/)
+- 👨🏻‍💻 Working on [thymos](https://github.com/thymea/thymos/)
 
 <!-- Social media links -->
 ## 🌐 Socials
@@ -28,15 +29,13 @@ Hi! My name is Voxi0. I am a 16 year old computer science, programming and Linux
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=35/>
 </div>
 
-<!-- Github statistics -->
+<!-- Github and Hackatime statistics -->
 ## 📊 Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=voxi0&theme=radical&rank_icon=default&include_all_commits=false&border_radius=4&hide_border=true"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voxi0&theme=radical&layout=compact&langs_count=8&border_radius=4&hide_border=true&hide_progress=false"/>
-</a>
+<div align="center">
+    <img align="center" width="412" src="https://github-readme-stats.vercel.app/api?username=voxi0&theme=catppuccin_mocha&rank_icon=default&include_all_commits=false&border_radius=4&hide_border=false"/>
+    <img align="center" width="412" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=18728&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=4&theme=catppuccin_mocha"/>
+</div>
 
 <!-- Snake eating my contributions :P -->
-## 🐍 Activity
+## 🐍 Commit Graph
 ![Snake GIF](https://github.com/Voxi0/Voxi0/blob/output/github-snake-dark.svg)
