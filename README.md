@@ -6,7 +6,7 @@
 Hi! My name is Voxi0. I am a 16 year old computer science, programming and Linux/Nix enthusiast currently living in the United Kingdom. I love NixOS and systems-level programming languages like [Zig](https://ziglang.org) and games like Half Life, Silent Hill 2 and Yume Nikki.
 
 - 🌱 I’m currently learning [Nix](https://nixos.org/) and [Zig](https://ziglang.org/)
-- 👨🏻‍💻 I’m currently working on [NixDots](https://github.com/Voxi0/NixDots) and [3GL](https://github.com/Voxi0/3GL)
+- 👨🏻‍💻 I’m currently working on [thymos](https://github.com/thymea/thymos/)
 
 <!-- Social media links -->
 ## 🌐 Socials
@@ -30,12 +30,10 @@ Hi! My name is Voxi0. I am a 16 year old computer science, programming and Linux
 
 <!-- Github statistics -->
 ## 📊 Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=voxi0&theme=radical&rank_icon=default&include_all_commits=false&border_radius=4&hide_border=true"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voxi0&theme=radical&layout=compact&langs_count=8&border_radius=4&hide_border=true&hide_progress=false"/>
-</a>
+<div align="center">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=voxi0&theme=radical&rank_icon=default&include_all_commits=false&border_radius=4&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=18728&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha"/>
+</div>
 
 <!-- Snake eating my contributions :P -->
 ## 🐍 Activity
