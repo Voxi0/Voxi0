@@ -4,7 +4,8 @@
 <!-- Introduction -->
 <h1 align="center">💫 About Me</h1>
 Hi! I'm a 16 year old computer science, programming and Linux/Nix enthusiast currently living in the United Kingdom.
-I love [NixOS/Nix](https://nixos.org/) and systems-level programming languages like C and [Zig](https://ziglang.org). I'm not much of a gamer but I enjoy Half-Life, DOOM, Silent Hill 2 and Yume Nikki.
+
+I love [NixOS/Nix](https://nixos.org/) and compiled systems-level languages like C for it's simplicity and such. I'm not much of a gamer but I enjoy Half-Life, DOOM, Silent Hill 2 and Yume Nikki.
 
 - 🌱 Learning [Nix](https://nixos.org/)
 - 👨🏻‍💻 Working on [nvdots](https://github.com/Voxi0/nvdots/) and [vodots](https://github.com/Voxi0/vodots/)
@@ -23,4 +24,5 @@ I love [NixOS/Nix](https://nixos.org/) and systems-level programming languages l
 
 <!-- Snake eating my contributions :P -->
 <h1 align="center">🐍 Commit Graph</h1>
+
 ![Snake GIF](https://github.com/Voxi0/Voxi0/blob/output/github-snake-dark.svg)
