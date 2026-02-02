@@ -4,10 +4,10 @@
 <!-- Introduction -->
 # 💫 About Me
 Hi! I'm a 16 year old computer science, programming and Linux/Nix enthusiast currently living in the United Kingdom.
-I love [NixOS/Nix](https://nixos.org/) and systems-level programming languages like [Zig](https://ziglang.org) and games like Half Life, DOOM, Silent Hill 2 and Yume Nikki.
+I love [NixOS/Nix](https://nixos.org/) and systems-level programming languages like C and [Zig](https://ziglang.org). I'm not much of a gamer but I enjoy Half-Life, DOOM, Silent Hill 2 and Yume Nikki.
 
-- 🌱 Learning [Nix](https://nixos.org/) and [Zig](https://ziglang.org/)
-- 👨🏻‍💻 Working on [thymos](https://github.com/thymea/thymos/)
+- 🌱 Learning [Nix](https://nixos.org/)
+- 👨🏻‍💻 Working on [thymos](https://github.com/Voxi0/nvdots/). Reconfiguring Neovim yes
 
 <!-- Social media links -->
 ## 🌐 Socials
