@@ -17,18 +17,6 @@ I love [NixOS/Nix](https://nixos.org/) and systems-level programming languages l
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@voxi0)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:voxi00@proton.me)
 
-<!-- Tech stuff I usually use -->
-## 💻 Tech Stack
-<div align="center" style="display: flex; justify-content: space-evenly;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=35/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width=35/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width=35/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=35/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" width=35/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=35/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=35/>
-</div>
-
 <!-- Github and Hackatime statistics -->
 ## 📊 Stats
 <div align="center">
