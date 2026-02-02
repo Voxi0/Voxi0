@@ -1,5 +1,5 @@
 <!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&theme=radical&height=100&animation=scaleIn&text=🌃Voxi0&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=blur&theme=radical&height=100&animation=scaleIn&text=🌃Voxi0&fontSize=50)
 
 <!-- Introduction -->
 <h1 align="center">💫 About Me</h1>
