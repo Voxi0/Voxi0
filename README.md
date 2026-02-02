@@ -7,7 +7,7 @@ Hi! I'm a 16 year old computer science, programming and Linux/Nix enthusiast cur
 I love [NixOS/Nix](https://nixos.org/) and systems-level programming languages like C and [Zig](https://ziglang.org). I'm not much of a gamer but I enjoy Half-Life, DOOM, Silent Hill 2 and Yume Nikki.
 
 - 🌱 Learning [Nix](https://nixos.org/)
-- 👨🏻‍💻 Working on [thymos](https://github.com/Voxi0/nvdots/). Reconfiguring Neovim yes
+- 👨🏻‍💻 Working on [nvdots](https://github.com/Voxi0/nvdots/) and [vodots](https://github.com/Voxi0/vodots/)
 
 <!-- Social media links -->
 ## 🌐 Socials
