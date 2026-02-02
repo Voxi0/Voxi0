@@ -17,13 +17,6 @@ I love [NixOS/Nix](https://nixos.org/) and systems-level programming languages l
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@voxi0)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:voxi00@proton.me)
 
-<!-- Github and Hackatime statistics -->
-## 📊 Stats
-<div align="center">
-    <img align="center" width="412" src="https://github-readme-stats.vercel.app/api?username=voxi0&theme=catppuccin_mocha&rank_icon=default&include_all_commits=false&border_radius=4&hide_border=false"/>
-    <img align="center" width="412" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=18728&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=4&theme=catppuccin_mocha"/>
-</div>
-
 <!-- Snake eating my contributions :P -->
 ## 🐍 Commit Graph
 ![Snake GIF](https://github.com/Voxi0/Voxi0/blob/output/github-snake-dark.svg)
